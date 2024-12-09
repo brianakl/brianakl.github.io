@@ -1,6 +1,6 @@
 ---
 title: Bootstrapped Model UpScaling (BUS)
-layout: posts
+layout: default
 category: project
 ---
 
