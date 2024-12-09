@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Graduate Teaching assistant
+title: Research Assistant
 category: work 
 ---
 
