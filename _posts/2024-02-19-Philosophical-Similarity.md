@@ -1,6 +1,6 @@
 ---
 title: Philosophical Similarity
-layout: post
+layout: posts
 category: project
 ---
 

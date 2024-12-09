@@ -1,6 +1,6 @@
 ---
 title: Graduate Teaching assistant
-layout: post
+layout: posts
 category: work
 ---
 

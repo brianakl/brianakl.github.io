@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: Deep Reinforcement Learning Agent
 category: project
 ---

@@ -1,6 +1,6 @@
 ---
 title: NLP Model Improvement
-layout: post
+layout: posts
 category: project
 ---
 # NLP Model Improvement

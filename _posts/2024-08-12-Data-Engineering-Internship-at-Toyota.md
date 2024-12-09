@@ -1,6 +1,6 @@
 ---
-title: Data Engineer Intern
-layout: post
+title: Data Engineering Internship at Toyota
+layout: posts
 category: work
 ---
 

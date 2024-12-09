@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: Learning to Skim Text Transformer Replication
 category: project 
 ---

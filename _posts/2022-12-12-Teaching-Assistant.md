@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: Teaching Assistant
 category: work
 ---
