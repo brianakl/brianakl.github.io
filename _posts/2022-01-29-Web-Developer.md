@@ -1,9 +1,8 @@
 ---
-layout: post
+layout: posts
+title: Web Developer
 category: work
 ---
-# Web Developer
-
 
 ## Technologies
 

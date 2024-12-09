@@ -1,8 +1,7 @@
 ---
 title: NLP Model Improvement
-# layout: category
-# permalink: /categories/Projects/
-# taxonomy: Projects
+layout: post
+category: project
 ---
 # NLP Model Improvement
 

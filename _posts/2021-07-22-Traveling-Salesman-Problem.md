@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: posts
+title: Traveling Salesman Problem Solutions
 category: project
 ---
-# Traveling Salesman Problem Solutions
 
 ## Technologies
 

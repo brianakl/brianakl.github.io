@@ -1,4 +1,8 @@
-# Bootstrapped Model UpScaling (BUS):
+---
+title: Bootstrapped Model UpScaling (BUS)
+layout: posts
+category: project
+---
 
 ## Intro
 

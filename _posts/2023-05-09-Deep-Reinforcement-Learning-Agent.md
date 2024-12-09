@@ -1,9 +1,8 @@
 ---
 layout: post
-title: Teaching Assistant
-category: work
+title: Deep Reinforcement Learning Agent
+category: project
 ---
-# Deep Reinforcement Learning Agent
 
 ## Technologies
 

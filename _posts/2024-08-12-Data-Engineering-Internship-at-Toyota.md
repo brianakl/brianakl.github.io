@@ -1,4 +1,8 @@
-# Data Engineer Intern
+---
+title: Data Engineer Intern
+layout: post
+category: work
+---
 
 ## Technologies
 
