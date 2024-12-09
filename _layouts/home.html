@@ -7,9 +7,8 @@ layout: archive
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].work_experience| default: "Work Experience" }}</h3>
 
 {% for cat in site.category %}
-    {% assign cat_name = cat[0] %}    
-    <h3>{% cat_name %}</h3>
-    {% for post in site.categories.cat_name %}
+    <h3>{{% cat %}}</h3>
+    {% for post in site.categories.cat %}
         <div class="entries-{{ entries_layout }}">
           {% include documents-collection.html entries=post type=entries_layout %}
         </div>
