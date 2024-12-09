@@ -1,7 +1,7 @@
 ---
-layout: posts
+layout: archive
 title: Deep Reinforcement Learning Agent
-category: project
+categories: project
 ---
 
 ## Technologies

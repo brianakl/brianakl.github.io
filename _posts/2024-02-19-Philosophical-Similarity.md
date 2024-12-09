@@ -1,7 +1,7 @@
 ---
 title: Philosophical Similarity
-layout: posts
-category: project
+layout: archive
+categories: project
 ---
 
 ## Technologies

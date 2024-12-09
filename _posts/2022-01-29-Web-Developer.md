@@ -1,7 +1,7 @@
 ---
-layout: posts
+layout: archive
 title: Web Developer
-category: work
+categories: work
 ---
 
 ## Technologies

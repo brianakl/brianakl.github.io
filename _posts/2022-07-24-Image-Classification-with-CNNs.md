@@ -1,7 +1,7 @@
 ---
-layout: posts
+layout: archive
 title: Image Classification with CNNs
-category: project
+categories: project
 ---
 
 ## Technologies

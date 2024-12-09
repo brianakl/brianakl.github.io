@@ -1,7 +1,7 @@
 ---
-layout: posts
+layout: archive
 title: Learning to Skim Text Transformer Replication
-category: project 
+categories: project 
 ---
 
 ## Technologies

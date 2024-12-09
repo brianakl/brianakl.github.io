@@ -1,7 +1,7 @@
 ---
-layout: posts
+layout: archive
 title: Traveling Salesman Problem Solutions
-category: project
+categories: project
 ---
 
 ## Technologies

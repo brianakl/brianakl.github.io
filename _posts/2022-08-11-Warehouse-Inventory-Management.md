@@ -1,7 +1,7 @@
 ---
-layout: posts
+layout: archive
 title: Warehouse Inventory Management
-category: project
+categories: project
 ---
 
 ## Technologies

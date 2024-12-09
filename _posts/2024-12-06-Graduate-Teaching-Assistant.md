@@ -1,7 +1,7 @@
 ---
 title: Graduate Teaching Assistant
-layout: posts
-category: work
+layout: archive
+categories: work
 ---
 
 ## Technologies

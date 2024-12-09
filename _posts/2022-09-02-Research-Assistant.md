@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: archive
 title: Graduate Teaching assistant
 category: work 
 ---

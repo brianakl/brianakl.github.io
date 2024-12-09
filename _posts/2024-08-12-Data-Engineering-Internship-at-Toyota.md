@@ -1,7 +1,7 @@
 ---
 title: Data Engineering Internship at Toyota
 layout: archive
-category: work
+categories: work
 ---
 
 ## Technologies

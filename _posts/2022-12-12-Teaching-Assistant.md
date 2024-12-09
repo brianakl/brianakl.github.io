@@ -1,7 +1,7 @@
 ---
-layout: posts
+layout: archive
 title: Teaching Assistant
-category: work
+categories: work
 ---
 
 ## Technologies
