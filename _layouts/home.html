@@ -27,7 +27,6 @@ layout: archive
 
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].education| default: "Education" }}</h3>
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].projects | default: "Projects" }}</h3>
 {% assign posts = site.categories.education %}
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 <div class="entries-{{ entries_layout }}">
