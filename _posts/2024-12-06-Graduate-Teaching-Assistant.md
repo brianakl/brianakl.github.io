@@ -1,5 +1,5 @@
 ---
-title: Graduate Teaching assistant
+title: Graduate Teaching Assistant
 layout: posts
 category: work
 ---
