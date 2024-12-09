@@ -13,7 +13,7 @@ layout: archive
 {% endif %}
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
-{% if page.category == Work_Experience %}
+{% if posts == Work_Experience %}
 <div class="entries-{{ entries_layout }}">
     {% include documents-collection.html entries=posts type=entries_layout %}
 </div>
@@ -29,7 +29,7 @@ layout: archive
 {% endif %}
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
-{% if page.category == Work_Experience %}
+{% if posts == Work_Experience %}
 <div class="entries-{{ entries_layout }}">
     {% include documents-collection.html entries=posts type=entries_layout %}
 </div>
@@ -44,8 +44,8 @@ layout: archive
 {% assign posts = site.categories %}
 {% endif %}
 
-{% if page.category == Work_Experience %}
 {% assign entries_layout = page.entries_layout | default: 'list' %}
+{% if posts == Work_Experience %}
 <div class="entries-{{ entries_layout }}">
     {% include documents-collection.html entries=posts type=entries_layout %}
 </div>
