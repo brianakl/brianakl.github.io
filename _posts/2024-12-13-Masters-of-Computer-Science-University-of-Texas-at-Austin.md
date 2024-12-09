@@ -1,5 +1,5 @@
 ---
-title: MSCS University of Texas at Austin
+title: Masters of Computer Science, University of Texas at Austin
 categories: education
 layout: archive
 ---
