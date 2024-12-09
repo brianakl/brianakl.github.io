@@ -1,6 +1,0 @@
-# Web Developer
-
-
-## Technologies
-
-## Responsibilities

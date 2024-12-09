@@ -1,5 +1,0 @@
-# Philosophical Similarity
-
-## Technologies
-
-## Responsibilities

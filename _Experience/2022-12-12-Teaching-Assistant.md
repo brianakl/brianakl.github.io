@@ -1,5 +1,0 @@
-# Teaching assistant
-
-## Technologies
-
-## Responsibilities
