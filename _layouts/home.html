@@ -4,51 +4,21 @@ layout: archive
 
 {{ content }}
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].Work_Experience| default: "Work Experience" }}</h3>
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].work_experience| default: "Work Experience" }}</h3>
+
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].projects | default: "Projects" }}</h3>
+
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].education| default: "Education" }}</h3>
 
 {% if paginator %}
-{% assign posts = paginator.categories %}
+  {% assign posts = paginator.posts %}
 {% else %}
-{% assign posts = site.categories %}
+  {% assign posts = site.posts %}
 {% endif %}
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
-{% if posts == Work_Experience %}
 <div class="entries-{{ entries_layout }}">
-    {% include documents-collection.html entries=posts type=entries_layout %}
+  {% include documents-collection.html entries=posts type=entries_layout %}
 </div>
-{% endif %}
-
-
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].Projects | default: "Projects" }}</h3>
-
-{% if paginator %}
-{% assign posts = paginator.categories %}
-{% else %}
-{% assign posts = site.categories %}
-{% endif %}
-
-{% assign entries_layout = page.entries_layout | default: 'list' %}
-{% if posts == Work_Experience %}
-<div class="entries-{{ entries_layout }}">
-    {% include documents-collection.html entries=posts type=entries_layout %}
-</div>
-{% endif %}
-
-
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].Education| default: "Education" }}</h3>
-
-{% if paginator %}
-{% assign posts = paginator.categories %}
-{% else %}
-{% assign posts = site.categories %}
-{% endif %}
-
-{% assign entries_layout = page.entries_layout | default: 'list' %}
-{% if posts == Work_Experience %}
-<div class="entries-{{ entries_layout }}">
-    {% include documents-collection.html entries=posts type=entries_layout %}
-</div>
-{% endif %}
 
 {% include paginator.html %}
