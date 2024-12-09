@@ -321,39 +321,3 @@ defaults:
       share: true
       related: true
       show_date: true
-  # _Work_Experience
-  - scope:
-      path: ""
-      type: Work Experience
-    values:
-      layout: category
-      author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
-      show_date: true
-  # _Projects
-  - scope:
-      path: ""
-      type: Projects
-    values:
-      layout: category
-      author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
-      show_date: true
-  # _Education
-  - scope:
-      path: ""
-      type: Education
-    values:
-      layout: category
-      author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
-      show_date: true
