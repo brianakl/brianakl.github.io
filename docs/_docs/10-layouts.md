@@ -790,7 +790,7 @@ Under the `$buttoncolors:` color map in `_sass/minimal-mistakes/_buttons.scss` s
 ```scss
 $buttoncolors:
 (facebook, $facebook-color),
-(twitter, $twitter-color),
+(X, $x-color),
 (linkedin, $linkedin-color),
 (reddit, $reddit-color);
 ```

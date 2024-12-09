@@ -42,7 +42,7 @@ comments:
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
-    num_posts            : 15 # 5 (default)
+    num_posts            : 20 # 5 (default)
     colorscheme          : "dark" # "light" (default), "dark"
   utterances:
     theme                : "github-dark" # "github-light" (default), "github-dark"
@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Brian Naklycky"
   avatar           : "/assets/images/headshot.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I recently graduated with a masters degree in Computer Science from the University of Texas at Austin. I also have a Bachelor's in CS from the University of South Florida"
+  bio              : "I recently graduated with a masters degree in Computer Science from the University of Texas at Austin."
   location         : "Austin, TX"
   email            : "brian-nak1@hotmail.com"
   links:
@@ -127,7 +127,7 @@ author:
       # url: "https://your-website.com"
     - label: "X.com"
       icon: "fab fa-fw fa-square-x-twitter"
-      url: "https://x.com/"
+      url: "https://x.com/naklycky"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/brianakl"
@@ -318,6 +318,6 @@ defaults:
       author_profile: true
       read_time: true
       comments: # true
-      share: true
+      # share: true
       related: true
       show_date: true
