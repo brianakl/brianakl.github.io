@@ -19,3 +19,5 @@ categories: project
    - PyTorch
    - Hugging Face Transformers
    - NVIDIA CUDA for GPU acceleration
+
+[github link](https://github.com/brianakl/NLP_final_paper)

@@ -21,3 +21,5 @@ categories: project
 ## Technologies
 - C++ STL
 - Unix CLI
+
+[github link](https://github.com/brianakl/traveling_salesman)
