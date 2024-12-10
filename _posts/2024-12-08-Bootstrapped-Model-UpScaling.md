@@ -4,17 +4,22 @@ layout: archive
 categories: project
 ---
 
-## Short Intro
+- Developed BUS (Bootstrapped Model UpScaling), an innovative method combining nGPT architecture with fractional HyperScaling to enhance Large Language Model (LLM) training efficiency
+- Conducted comprehensive comparisons across model sizes ranging from 100k to 100M parameters, demonstrating consistent performance gains and efficient scaling properties.
+- Investigated transfer learning's impact on the efficient compute boundary, exploring opportunities to optimize computational resources while maintaining high accuracy.
+- Applied singular value decomposition (SVD) to analyze convergence properties, revealing shared spectral characteristics enabling effective knowledge transfer between models of different sizes.
+- Performed pretraining on a 100M parameter LLM using a large GPU cluster, showcasing ability to work with substantial computational resources.
 
-In this paper I had the idea of exploring model growth, or making LLMs grow in number of parameter during training. If an efficient method can be found this can mean that lots of compute resources can be saved by not having to start with training such a large model.
+### Technologies
+- Implemented the entire pipeline using a robust tech stack:
+   - Python
+   - PyTorch
+   - HuggingFace Transformers
+   - NumPy
+   - SciPy
+   - Pandas
+   - CUDA for accelerated training
 
-Earlier this year I had thought that there must be a way to expand a models size, since both large and small models are solving the same problem, they are also exploring the same problem space, although the smaller model has a lower dimensional projection of it. 
-
-Concurrent to my research, Samragh et al. at Apple proved the 
-
-## Tools Used
-
-This entire pipeline was implemented using Python, PyTorch, and HuggingFace Transformers, leveraging Numpy, Scipy, and Pandas for data analysis and visualization, while utilizing CUDA for accelerated training.
 
 ## link to paper
 [github link](https://github.com/brianakl/bootstrapped_model_up_scaling)
