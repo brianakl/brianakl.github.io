@@ -15,9 +15,15 @@ My technical skills include Python, C++, C, SQL, and various tools like Unix/Lin
 I've contributed to academic research in quantum network communication and developed a novel transfer learning method called BUS for efficient large language model training. With experience in data engineering, machine learning, and web development, I'm well-equipped to tackle complex challenges in software engineering and data science. My ability to communicate complex ideas effectively makes me valuable in both academic and industry settings.
 <br/>
 <br/>
-Feel free to read more about my experience and projects below.
+Feel free to read my articles, experience, and projects below.
 </p5>
 
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].projects | default: "Articles" }}</h3>
+{% assign posts = site.categories.article%}
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+<div class="entries-{{ entries_layout }}">
+  {% include documents-collection.html entries=posts type=entries_layout %}
+</div>
 
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].work_experience| default: "Work Experience" }}</h3>
 
