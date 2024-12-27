@@ -8,13 +8,13 @@ This article will cover everything you need to know to build and train a LLM fro
 - Linear Algebra 
     - LAFF (covers basic linear algebra)
     - ALAFF (covers some more advanced topics to provide a deeper understanding that I believe to be very beneficial to your understanding)
-    - (http://ulaff.net/)[http://ulaff.net/]
+    - (ulaff.net/)[http://ulaff.net/]
 - Calculus
     - openstax Calculus 1-3
-    - (https://openstax.org/subjects/math)[https://openstax.org/subjects/math]
+    - (openstax.org)[https://openstax.org/subjects/math]
 - Python
     - Pytorch
-    - (https://pytorch.org/docs/stable/index.html)[https://pytorch.org/docs/stable/index.html]
+    - (pytorch.org/docs)[https://pytorch.org/docs/stable/index.html]
 
 
 
