@@ -4,6 +4,9 @@ layout: archive
 categories: article
 ---
 
+
+### INPROGRESS
+
 This article will cover everything you need to know to build and train a LLM from scratch while also covering some more advanced and modern techniques to achieve better performance. This requires a certain level of technical knowledge, if you come from a programming or mathematical background you should be able to follow along just fine. If you are intrested in building up your knowledge to better understand the material below I will list some soft prerequisites:
 - Linear Algebra 
     - LAFF (covers basic linear algebra)
@@ -19,7 +22,7 @@ This article will cover everything you need to know to build and train a LLM fro
 
 
 ## Tokenization
-
+- Byte Pair Encoding
 
 
 ## Embeddings
@@ -79,3 +82,5 @@ This article will cover everything you need to know to build and train a LLM fro
 
 ### BUS
 
+
+### Byte Latent Transformer
